@@ -1,0 +1,20 @@
+Section, Time Est.,
+01. Instructor Do: Welcome to the Ledger Project, 0:10,
+02. Instructor Do: MySQL Setup Reminder, 0:05
+03. Instructor Do: Introduction to CRUD, 0:15
+04. Instructor & Student Do: Prepping the DB, 0:05
+05. Instructor Do: Import Project & Dissect the Model, 0:15
+06. Student Do: Modelling the Model, 0:10
+07. Instructor Review: Modelling the Model, 0:15
+08. Instructor Do: Interacting with the Interface, 0:07
+09. Instructor Do: Commanding the Controller & Building our first CRUD API, 0:15,
+10. Student Do: CREATEing our first CRUD API, 0:10
+11. Break, 0:15
+12. Instructor Review: Check-in with the Class, 0:03
+13. Instructor Do: READing the Data, 0:12
+14. Student Do: Get, Get, GET!, 0:13
+15. Instructor Review: Get, Get, GET!, 0:05
+16. Instructor Do: UPDATE & DELETE, 0:05
+17. Student Do: One PUT and a DELETE, 0:15
+18. Instructor Review: One PUT and a DELETE, 0:05
+Total, 3:00:00
