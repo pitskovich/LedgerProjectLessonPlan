@@ -120,7 +120,7 @@ Explain to the students that they will essentially repeat the steps that were ju
 This activity can be completed in groups / breakout rooms, but each student should have their own local instance of the Ledger Project. 
 
 Send the students the following activity file:
-- [Activity File: Modelling the Model](activities/06-Modelling-The-Model/Unsolved/README.md)
+- [Activity File: Modelling the Model](activities/06-Modelling-The-Model/unsolved/README.md)
 
 ### 07. Instructor Review: Modelling the Model (0:15)
 Run a comprehension check poll before reviewing the activity.
@@ -186,7 +186,7 @@ Explain to the students that they will once again be mirroring the demonstration
 This activity can be completed in groups / breakout rooms, but each student should have their own local instance of the Ledger Project. 
 
 Send the students the following activity file:
-- [Activity File: CREATEing our first CRUD API](activities/10-CREATEing-our-first-CRUD-API/Unsolved/README.md)
+- [Activity File: CREATEing our first CRUD API](activities/10-CREATEing-our-first-CRUD-API/unsolved/README.md)
 
 ### 11. Break (0:15)
 If a student is facing any difficulties with their development machine, now would be a good time to help troubleshoot with the instructional staff
@@ -228,7 +228,7 @@ Introduce the next activity by telling the students that they will be adding the
 This activity can be completed in groups / breakout rooms, but each student should have their own local instance of the Ledger Project. 
 
 Send the students the following activity file:
-- [Activity File: Get, Get, GET](activities/14-get-get-get/Unsolved/README.md)
+- [Activity File: Get, Get, GET](activities/14-get-get-get/unsolved/README.md)
 
 ### 15. Instructor Review: Get, Get, GET! (0:05)
 The review for this activity should be fairly brief as students have already seen the instructor demo for the first 2 API endpoints, and the 3rd new endpoint is fairly similar in nature to its predecessor. Use this time to field any additional questions students have up to this point.
@@ -247,7 +247,7 @@ Introduce the final activity by telling students that we will be using everythin
 This activity can be completed in groups / breakout rooms, but each student should have their own local instance of the Ledger Project. 
 
 Send the students the following activity file:
-- [Activity File: One PUT and a DELETE](activities/17-one-put-and-a-delete/Unsolved/README.md)
+- [Activity File: One PUT and a DELETE](activities/17-one-put-and-a-delete/unsolved/README.md)
 
 ### 18. Instructor Review: One PUT and a DELETE (0:05)
 Walk students through the solution for the PUT and DELETE API endpoints. 
